@@ -11,5 +11,7 @@ public class User {
 
     //Trying to other way
 
+    //Last line for that class
+
 
 }
